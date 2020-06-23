@@ -1,0 +1,66 @@
+body{
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif, Arial,Georgia;
+    background-color: cornsilk;
+}
+
+header{
+    padding: 10px;
+    height: 100%;
+    background-color: orangered;
+}
+
+.main-container{
+    margin: 0px auto;
+    padding: 0;
+    width: 100%;
+}
+
+/*Navigation*/
+nav ul, .actions ul{
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li, .actions ul li{
+    display: inline-block;
+    background-color: black;
+    padding: 3px 10px;
+    border-radius: 4px;
+    border:1px solid black;
+}
+
+nav ul li:hover, .actions ul li:hover{
+    background-color: white;
+}
+
+nav a, .actions a {
+    text-decoration: none;
+    color:white;
+}
+
+nav a:hover, .actions a:hover{
+    color:black;
+}
+
+footer{
+    position: fixed;
+    bottom: 0;
+    margin: 0px auto;
+    height: 50px;
+    background-color: orangered;
+    padding: 10px;
+    width: inherit;
+    color: white;
+}
+
+.error-messages {
+    color:red;
+    font-style: italic;
+}
+
+.status {
+    color: blue;
+}
