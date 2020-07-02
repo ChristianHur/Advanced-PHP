@@ -1,0 +1,149 @@
+
+body{
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif, Arial,Georgia;
+    background-color: cornsilk;
+}
+
+header{
+    padding: 10px;
+    height: 100%;
+    background-color: orangered;
+}
+
+.main-container{
+    margin: 0px auto;
+    padding: 0;
+    width: 100%;
+}
+
+/*Navigation*/
+nav ul, .guestbook_table ul{
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li, .guestbook_table ul li{
+    display: inline-block;
+    background-color: black;
+    padding: 3px 10px;
+    border-radius: 4px;
+    border:1px solid black;
+}
+
+nav ul li:hover, .guestbook_table ul li:hover{
+    background-color: white;
+}
+
+nav a, .guestbook_table a {
+    text-decoration: none;
+    color:white;
+}
+
+nav a:hover, .guestbook_table a:hover{
+    color:black;
+}
+
+footer{
+    position: fixed;
+    bottom: 0;
+    margin: 0px auto;
+    height: 50px;
+    background-color: orangered;
+    padding: 10px;
+    width: inherit;
+    color: white;
+}
+
+/*Guest table*/
+.guestbook_table {
+    margin: 0px auto;
+    padding: 5px;
+    width: 60%;
+    border:1px solid black;
+}
+
+.guestbook_table thead {
+    background-color: #ccc;
+}
+
+.guestbook_table th {
+    padding: 10px;
+}
+
+.guestbook_table td {
+    padding : 10px;
+}
+.guestbook_table tbody tr:nth-child(odd){
+    background-color: gold;
+}
+.guestbook_table tbody tr:nth-child(even){
+    background-color: azure;
+}
+
+/*Form Controls*/
+.guestbook_controls, .login_controls, .registration_controls{
+    margin:20px auto;
+    width: 500px;
+}
+
+.guestbook_controls label,
+.login_controls label,
+.registration_controls label
+{
+    display: inline-block;
+    width: 100px;
+    text-align: left;
+}
+
+.guestbook_controls input, .guestbook_controls textarea,
+.login_controls input, .registration_controls input
+{
+    font-size: larger;
+    width: 250px;
+}
+
+.guestbook_controls textarea {
+    vertical-align: text-top;
+}
+
+.guestbook_controls .btn-reset, .guestbook_controls .btn-submit,
+.login_controls .btn-reset, .login_controls .btn-submit,
+.registration_controls .btn-reset, .registration_controls .btn-submit
+{
+    font-size: larger;
+    width: 70%;
+    display: block;
+    margin: 10px auto;
+    background-color: orangered;
+    border: 1px solid black;
+    border-radius: 4px;
+    padding: 10px;
+}
+.guestbook_controls .btn-reset:hover, .guestbook_controls .btn-submit:hover,
+.login_controls .btn-reset:hover, .login_controls .btn-submit:hover.
+.registration_controls .btn-reset:hover, .registration_controls .btn-submit:hover
+{
+    background-color: orange;
+    cursor: pointer;
+    color:white;
+}
+
+/*User Message*/
+.user-login {
+    float: right;
+    position: relative;
+    bottom: 3em;
+    margin-right: 50px;
+}
+
+main {
+    clear: both;
+}
+
+.error-messages {
+    color:red;
+    font-style: italic;
+}
