@@ -11,7 +11,7 @@ if (isset($_POST['submit'])) {
             if ($isValidPassword) {
                 //Login successful
                 $_SESSION['user']=ucfirst($username);
-                header("Location: vehicle.php");
+                header("Location: index.php");
             } else {
                 throw new Exception("Sorry, something went wrong.  Try again.");
             }
