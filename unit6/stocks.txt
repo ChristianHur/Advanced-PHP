@@ -1,0 +1,50 @@
+1;CVR Refining, LP;CVRR;Energy;625.17
+2;GTx, Inc.;GTXI;Health Care;1556.97
+3;LATAM Airlines Group S.A.;LTM;Transportation;1150.12
+4;First Cash, Inc.;FCFS;Consumer Services;1930.80
+5;ADDvantage Technologies Group, Inc.;AEY;Consumer Services;682.89
+6;SCYNEXIS, Inc.;SCYX;Health Care;1579.21
+7;Lloyds Banking Group Plc;LYG;Finance;1286.12
+8;Prudential Public Limited Company;PUK^A;n/a;738.69
+9;Total System Services, Inc.;TSS;Miscellaneous;1635.17
+10;First Trust Enhanced Short Maturity ETF;FTSM;n/a;1764.38
+11;iFresh Inc.;IFMK;Consumer Services;1037.79
+12;Deswell Industries, Inc.;DSWL;Consumer Non-Durables;800.74
+13;Fang Holdings Limited;SFUN;Technology;294.46
+14;Petrobras Argentina S.A.;PZE;Energy;364.67
+15;Tallgrass Energy Partners, LP;TEP;Public Utilities;1212.05
+16;American Water Works;AWK;Public Utilities;230.77
+17;ARCA biopharma, Inc.;ABIO;Health Care;927.18
+18;Dillard's, Inc.;DDS;Consumer Services;1850.06
+19;Host Hotels & Resorts, Inc.;HST;Consumer Services;766.51
+20;AMERISAFE, Inc.;AMSF;Finance;1247.24
+21;Shutterstock, Inc.;SSTK;Technology;149.65
+22;Prestige Brand Holdings, Inc.;PBH;Health Care;1355.06
+23;Chesapeake Energy Corporation;CHK;Energy;1369.07
+24;Sonoma Pharmaceuticals, Inc.;SNOA;Health Care;281.69
+25;German American Bancorp, Inc.;GABC;Finance;242.80
+26;TICC Capital Corp.;TICCL;n/a;1302.71
+27;Government Properties Income Trust;GOVNI;Finance;1874.44
+28;Eaton Vance Senior Income Trust;EVF;n/a;1215.97
+29;AMTEK, Inc.;AME;Consumer Durables;852.75
+30;Navios Maritime Partners LP;NMM;Transportation;1107.27
+31;Liberty Interactive Corporation;QVCA;Consumer Services;1414.64
+32;Aegon NV;AED;Finance;820.92
+33;Enova International, Inc.;ENVA;Finance;1760.01
+34;Scorpio Tankers Inc.;SBNA;Transportation;1636.32
+35;Sotherly Hotels LP;SOHOM;Consumer Services;1475.45
+36;iPath US Treasury Long Bond Bull ETN;DLBL;Finance;1978.76
+37;First Financial Corporation Indiana;THFF;Finance;479.74
+38;Check-Cap Ltd.;CHEK;Health Care;1373.32
+39;Wells Fargo & Company;WFC^N;n/a;1569.42
+40;Mack-Cali Realty Corporation;CLI;Consumer Services;1576.10
+41;Regis Corporation;RGS;Consumer Services;622.48
+42;California Water  Service Group Holding;CWT;Public Utilities;952.89
+43;Western Asset Global Corporate Defined Opportunity Fund Inc.;GDO;n/a;1149.52
+44;The AES Corporation;AES;Basic Industries;642.25
+45;Willis Lease Finance Corporation;WLFC;Consumer Durables;764.23
+46;Artisan Partners Asset Management Inc.;APAM;Finance;1275.35
+47;WashingtonFirst Bankshares Inc;WFBI;Finance;1087.52
+48;Hyatt Hotels Corporation;H;Consumer Services;1235.69
+49;Easterly Acquisition Corp.;EACQW;Capital Goods;772.88
+50;Anchor Bancorp;ANCB;Finance;1744.71

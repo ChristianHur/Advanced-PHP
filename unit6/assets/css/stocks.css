@@ -1,0 +1,127 @@
+body{
+    text-align: center;
+    margin:0;
+    padding:0;
+    font-family: sans-serif, Arial, Georgia;
+}
+header{
+    position: fixed;
+    background-color: forestgreen;
+    box-shadow: 0px 0px 15px black;
+    width: 100%;
+    top:0;
+    color:white;
+}
+footer{
+    position: fixed;
+    background-color: forestgreen;
+    box-shadow: 0px 0px 15px black;
+    width: 100%;
+    bottom:0;
+    color:white;
+    margin: 0px auto;
+    padding: 10px;
+}
+.main-container{
+    margin: 150px auto 20px auto;
+    width: 100%;
+}
+main{
+    margin:10px auto 75% auto;
+    padding: 10px;
+}
+/*Navigation*/
+nav ul {
+    list-style-type: none;
+    padding: 0px;
+}
+nav ul li {
+    display: inline-block;
+    background-color: black;
+    border-radius: 4px;
+    border: 1px solid black;
+}
+nav ul li:hover{
+    background-color: white;
+}
+nav a {
+    text-decoration: none;
+    color:white;
+    padding: 5px;
+    width: 100px;
+    display: inline-block;
+}
+nav a:hover{
+    color: black;
+}
+/*Table*/
+.stocks_table{
+    margin:0 auto;
+    padding: 5px;
+    width: 65%;
+    border:1px solid black;
+    text-align: left;
+    background-color: black;
+}
+.stocks_table thead {
+    background-color: darkgreen;
+    color:white;
+}
+.stocks_table th, .stocks_table td {
+    padding: 10px;
+}
+.stocks_table tbody tr:nth-child(odd){
+    background-color: yellowgreen;
+}
+.stock_table tbody tr:nth-child(odd){
+    background-color: orange;
+}
+.stocks_table tbody tr:nth-child(even){
+    background-color: azure;
+}
+
+/*Table*/
+.stocks_form{
+    margin:0 auto;
+}
+.stocks_controls{
+    margin:20px auto;
+    width: 500px;
+}
+
+.stocks_controls label
+{
+    display: inline-block;
+    width: 100px;
+    text-align: right;
+    margin-right: 5px;
+}
+
+.stocks_controls input
+{
+    font-size: larger;
+}
+.stocks_controls .btn-submit,
+.stocks_controls .btn-reset
+{
+    font-size: larger;
+    width: 70%;
+    display: block;
+    margin: 10px auto;
+    background-color: darkgreen;
+    border: 1px solid black;
+    border-radius: 4px;
+    padding: 10px;
+    color:white;
+}
+.stocks_controls .btn-submit:hover,
+.stocks_controls .btn-reset:hover
+{
+    background-color: azure;
+    cursor: pointer;
+    color:black;
+}
+
+
+
+
