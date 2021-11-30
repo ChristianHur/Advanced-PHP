@@ -3,8 +3,8 @@ class Database{
 
     private $host = "localhost";
     private $db = "testuser1_php2db";
-    private $user = "adminuser";
-    private $pass = "MyGTC123!";
+    private $user = "";   // Username
+    private $pass = "!";  // Password
     public $conn;
 
     /**
