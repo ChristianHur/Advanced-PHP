@@ -27,15 +27,15 @@ switch ($requestMethod) {
         $response = getEmployee($employee);
         break;
     case 'POST':
-        //TODO - add a record to the list
+        // Add a record to the list
         $response = addEmployee($employee);
         break;
     case 'PUT':
-        //TODO - update an existing record
+        // Update an existing record
         $response = updateEmployee($employee);
         break;
     case 'DELETE':
-        //TODO - delete one or all records (careful now)
+        // Delete one or all records (careful now)
         $response = deleteEmployee($employee);
         break;
     default:
